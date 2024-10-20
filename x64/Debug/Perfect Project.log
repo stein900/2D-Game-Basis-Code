@@ -1,0 +1,4 @@
+﻿  Level.cpp
+X:\tout le reste\visual studio 2022 project\Perfect Project\Level.cpp(37,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+X:\tout le reste\visual studio 2022 project\Perfect Project\Level.cpp(37,42): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Perfect Project.vcxproj -> X:\tout le reste\visual studio 2022 project\Perfect Project\x64\Debug\Perfect Project.exe
